@@ -1,0 +1,195 @@
+[
+    {
+      "name": "ollie",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 1,
+      "tags": ["pop", "beginner"]
+    },
+
+    {
+        "name": "frontside 180",
+        "type": "flatground",
+        "stance": "regular",
+        "difficulty": 2,
+        "tags": ["pop","spin", "beginner"]
+    },
+
+    {
+        "name": "backside 180",
+        "type": "flatground",
+        "stance": "regular",
+        "difficulty": 2,
+        "tags": ["pop","spin", "beginner"]
+    },
+
+    
+      {
+      "name": "nollie",
+      "type": "flatground",
+      "stance": "nollie",
+      "difficulty": 2,
+      "tags": ["pop", "beginner"]
+    },
+    {
+      "name": "pop shuvit",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 2,
+      "tags": ["pop", "rotate", "beginner"]
+    },
+    {
+      "name": "front shuvit",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 2,
+      "tags": ["pop", "rotate", "beginner"]
+    },
+    {
+      "name": "kickflip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 3,
+      "tags": ["pop", "flip", "intermediate"]
+    },
+    {
+      "name": "heelflip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 3,
+      "tags": ["pop", "flip", "intermediate"]
+    },
+    {
+      "name": "varial kickflip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 4,
+      "tags": ["pop", "flip", "rotate", "combo","intermediate"]
+    },
+    {
+      "name": "varial heelflip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 4,
+      "tags": ["pop", "flip", "rotate", "combo","intermediate"]
+    },
+    {
+      "name": "frontside flip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 4,
+      "tags": ["pop", "flip", "spin", "intermediate"]
+    },
+    {
+      "name": "backside flip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 4,
+      "tags": ["pop", "flip", "spin", "intermediate"]
+    },
+    {
+      "name": "360 flip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 5,
+      "tags": ["pop", "flip", "rotate", "combo", "advanced"]
+    },
+    {
+      "name": "hardflip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 5,
+      "tags": ["pop", "flip", "rotate", "combo", "advanced"]
+    },
+    {
+      "name": "inward heelflip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 5,
+      "tags": ["pop", "flip", "rotate", "combo", "advanced"]
+    },
+    {
+      "name": "nollie flip",
+      "type": "flatground",
+      "stance": "nollie",
+      "difficulty": 4,
+      "tags": ["pop", "flip", "intermediate"]
+    },
+    {
+      "name": "nollie heelflip",
+      "type": "flatground",
+      "stance": "nollie",
+      "difficulty": 4,
+      "tags": ["pop", "flip", "intermediate"]
+    },
+    {
+      "name": "nollie 360 flip",
+      "type": "flatground",
+      "stance": "nollie",
+      "difficulty": 5,
+      "tags": ["pop", "flip", "rotate","combo", "advanced"]
+    },
+    {
+      "name": "switch kickflip",
+      "type": "flatground",
+      "stance": "switch",
+      "difficulty": 4,
+      "tags": ["pop", "flip", "intermediate"]
+    },
+    {
+      "name": "switch heelflip",
+      "type": "flatground",
+      "stance": "switch",
+      "difficulty": 4,
+      "tags": ["pop", "flip", "intermediate"]
+    },
+    {
+      "name": "double kickflip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 5,
+      "tags": ["pop", "double flip", "advanced"]
+    },
+    {
+      "name": "double heelflip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 5,
+      "tags": ["pop", "double flip", "advanced"]
+    },
+    {
+      "name": "laser flip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 5,
+      "tags": ["pop", "flip", "rotate", "combo", "advanced"]
+    },
+    {
+      "name": "bigspin",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 4,
+      "tags": ["pop", "rotate", "spin", "combo", "intermediate"]
+    },
+    {
+      "name": "bigspin flip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 5,
+      "tags": ["pop", "flip", "rotate", "spin", "combo", "advanced"]
+    },
+    {
+      "name": "impossible",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 4,
+      "tags": ["pop", "flip", "wrap", "advanced"]
+    },
+    {
+      "name": "pressure flip",
+      "type": "flatground",
+      "stance": "regular",
+      "difficulty": 4,
+      "tags": ["pop", "flip","rotate","combo", "intermediate"]
+    }
+  ]
