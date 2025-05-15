@@ -37,13 +37,18 @@ def_tags_to_vector(data,unique_tags):
         vector = []
         #  loop through unique_tags
         for tag in unique_tags:
+            
             # if the trick in data has the tag put a 1, if it doesn't put a 0
             if tag in trick["tags"]:
+
+                # append 1 
                 vector.append(1)
 
             else:
+                # append 0
                 vector.append(0)
         
+        # store "tag_vector" in data(json) 
         trick["tag_vector"] = vector
 
 
